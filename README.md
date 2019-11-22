@@ -4,5 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn install` or `npm install`
+### `yarn start` or `npm start`
 
